@@ -1,0 +1,22 @@
+﻿<p>All numbers in array</p>
+<ul>
+    @foreach (int n in  ViewBag.Numbers)
+    {
+        <li>@n</li>
+    }
+</ul>
+<p>
+    Number of integers in the array: @ViewBag.CountNumber
+</p>
+<p>
+    Largest Number: @ViewBag.MaxNumber
+</p>
+<p>
+    Smallest Number: @ViewBag.MinNumber
+</p>
+<p>
+    Sum of Numbers: @ViewBag.SumNumbers
+</p>
+<p>
+    Average of Numbers: @ViewBag.AverageNumbers
+</p>

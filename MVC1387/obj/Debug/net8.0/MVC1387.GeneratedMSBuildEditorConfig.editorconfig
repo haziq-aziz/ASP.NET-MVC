@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC1387
+build_property.RootNamespace = MVC1387
+build_property.ProjectDir = C:\Users\333\OneDrive - Universiti Kuala Lumpur\Desktop\Advanced Programming\Lab\MVC1387\MVC1387\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\333\OneDrive - Universiti Kuala Lumpur\Desktop\Advanced Programming\Lab\MVC1387\MVC1387
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Array/IntegerArray.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJyYXlcSW50ZWdlckFycmF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Array/Jagged1DimensionalArray.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJyYXlcSmFnZ2VkMURpbWVuc2lvbmFsQXJyYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Array/Jagged2DimensionalArray.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJyYXlcSmFnZ2VkMkRpbWVuc2lvbmFsQXJyYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Array/MultiplicationArray.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJyYXlcTXVsdGlwbGljYXRpb25BcnJheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Array/PoslajuRatesArray.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJyYXlcUG9zbGFqdVJhdGVzQXJyYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Array/StringArray.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJyYXlcU3RyaW5nQXJyYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/AddNumberList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGROdW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/CityDictionary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxDaXR5RGljdGlvbmFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/CityDictionaryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxDaXR5RGljdGlvbmFyeUFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxFbXBsb3llZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/EmployeeListAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxFbXBsb3llZUxpc3RBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/EmployeeListRestriction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxFbXBsb3llZUxpc3RSZXN0cmljdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/EmployeeRestAgg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxFbXBsb3llZVJlc3RBZ2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/FindElement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxGaW5kRWxlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/InfoPetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxJbmZvUGV0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/NumberDictionary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxOdW1iZXJEaWN0aW9uYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/NumberDictionaryKeyValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxOdW1iZXJEaWN0aW9uYXJ5S2V5VmFsdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/NumberList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxOdW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/PetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxQZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/RemoveNumberList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxSZW1vdmVOdW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/SelectNetSalary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxTZWxlY3ROZXRTYWxhcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Collection/SelectSubset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxTZWxlY3RTdWJzZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Learn/BodyMassIndex1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5cQm9keU1hc3NJbmRleDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Learn/BodyMassIndex1Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5cQm9keU1hc3NJbmRleDFSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Learn/BodyMassIndex2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5cQm9keU1hc3NJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Learn/BodyMassIndex2Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5cQm9keU1hc3NJbmRleDJSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Learn/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/PosLajuParcel/ParcelDelivery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zTGFqdVBhcmNlbFxQYXJjZWxEZWxpdmVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/PosLajuParcel/ParcelDeliveryInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zTGFqdVBhcmNlbFxQYXJjZWxEZWxpdmVyeUludm9pY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/333/OneDrive - Universiti Kuala Lumpur/Desktop/Advanced Programming/Lab/MVC1387/MVC1387/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-380q53ycvo

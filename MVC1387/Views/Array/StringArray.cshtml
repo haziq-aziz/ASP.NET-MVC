@@ -1,0 +1,22 @@
+﻿<p>All pets in array</p>
+<ol>
+        @foreach (string p in ViewBag.Pets)
+        {
+        <li>@p</li>
+        }
+</ol>
+
+<p>All pets in array - Sort Ascending</p>
+<ol>
+    @foreach (string p in ViewBag.Result1)
+    {
+        <li>@p</li>
+    }
+</ol>
+<p>All pets in array - Sort Descending</p>
+<ol>
+    @foreach (string p in ViewBag.Result2)
+    {
+        <li>@p</li>
+    }
+</ol>

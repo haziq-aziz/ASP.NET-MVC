@@ -1,0 +1,35 @@
+﻿@model MVC1387.Models.Person
+    <link href="~/css/bmi.css" rel="stylesheet" />
+
+@using (Html.BeginForm())
+{
+    <p>
+        <label>Name: </label>@Html.TextBoxFor(x => x.Name)
+    </p>
+    <p>
+        <label>Gender: </label>@Html.DropDownListFor(x => x.Gender, 
+        new [] {new SelectListItem(){Text = "Male", Value = "M"},   // Perimeter 1 of Array
+                new SelectListItem(){Text = "Female", Value="F"}},  // Perimeter 2 of Array
+                "Choose an option"                                  // Perimeter 3 of Array
+        )
+    </p>
+    <p>
+        <label>Your weight: </label>@Html.TextBoxFor(x => x.Weight)
+    </p>
+    <p>
+        <label>Your height: </label>@Html.TextBoxFor(x => x.Height)
+    </p>
+    <p>
+        <label>Do You Smoke?: </label>@Html.DropDownListFor(x => x.Smoking,
+         new[] {new SelectListItem(){Text = "No", Value = bool.FalseString},   // Perimeter 1 of Array
+         new SelectListItem(){Text = "Yes", Value = bool.TrueString}},         // Perimeter 2 of Array
+         "Choose an option"                                                    // Perimeter 3 of Array
+         )
+    </p>
+    <p>
+        <label>Vaccinated: </label>@Html.CheckBoxFor(x => x.Vaccinated)
+    </p>
+    <p>
+        <input type="submit" value="Submit"/>
+    </p>
+}

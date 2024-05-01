@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MVC1387.Models.Employee>
+
+<h3>List of Emplyees</h3>
+
+<table border="1" width="100%">
+    <tr>
+        <th>#</th>
+        <th>Emp ID</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Position</th>
+        <th>Start Date</th>
+        <th>Campus</th>
+        <th>Salary</th>
+    </tr>
+    @{
+        int row = 1;
+    } <!-- C# Statement in Razor Code Block -->
+    
+
+    @foreach (var employee in ViewBag.MIITMFI)           // Sort by Campus MIIT & MFI
+
+    //@foreach (var employee in ViewBag.SeniorMale)     // Sort by Senior Male Position
+    // @foreach (var employee in ViewBag.Senior)        Sort by Senior Position
+    //  @foreach (var employee in ViewBag.HighSalary)   Sort by Salary > 5000
+    // @foreach (var employee in ViewBag.HighSalary)    Sort by Salary > 5000
+    // @foreach (var employee in ViewBag.F)             Sort by Gender
+    // @foreach (var employee in ViewBag.MIIT)          Sort by Campus  = MIIT
+    {
+        <tr>
+            <td>@row</td>
+            <td>@employee.EmpID</td>
+            <td>@employee.Name</td>
+            <td>@employee.Gender</td>
+            <td>@employee.Position</td>
+            <td>@employee.StartDate.ToShortDateString()</td>
+            <td>@employee.Campus</td>
+            <td>@employee.Salary.ToString("c")</td>
+        </tr>
+        row++;
+    }
+</table>
